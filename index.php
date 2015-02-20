@@ -111,7 +111,7 @@
 <div class= "project_mind">
 	Have something to say? check out projectmind.guru 
 	<br>
-	<button><a href="http://www.projectmind.guru">GO</a></button>
+	<a href="http://www.projectmind.guru">GO</a>
 </div>
 
 <?php include('include/footer.php') ?>

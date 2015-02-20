@@ -40,4 +40,22 @@ body{
 }
 .project_mind a{
 	text-decoration: none;
+	font-family: 'Josefin Slab', serif;
+	font-size: 15px;
+	color: #000000;
+	background-color: #FFFFFF;
+	border-radius: 2px;
+	padding:0 6px;
 }
+.project_mind a:hover{
+	background-color: #3399FF;
+}
+
+
+
+
+
+
+
+
+
