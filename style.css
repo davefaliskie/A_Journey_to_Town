@@ -31,5 +31,13 @@ body{
 }
 
 .the_story{
-	padding-bottom: 200px;
+	padding-bottom: 100px;
+}
+
+.project_mind{
+	text-align: center;
+	padding-bottom: 100px;
+}
+.project_mind a{
+	text-decoration: none;
 }
